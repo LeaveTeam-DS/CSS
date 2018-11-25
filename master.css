@@ -59,6 +59,7 @@ input[type="text"], textarea {
 	font-size:1.5vw;
 	border:none;
 	border-bottom:2px solid white;
+	width: 30vw;
 }
 
 
@@ -436,6 +437,7 @@ span [id^='subj']{
 		font-size:6vw;
 		border:none;
 		border-bottom:2px solid white;
+		width: 40vw;
 	}
 
 }
